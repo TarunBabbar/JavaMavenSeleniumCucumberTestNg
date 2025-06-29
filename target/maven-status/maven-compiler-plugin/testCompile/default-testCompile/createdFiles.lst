@@ -1,8 +1,10 @@
 pages\BasePage.class
-runner\RunCucumberTest.class
 pages\ProductsPage.class
 selenium\SeleniumDriver.class
+api\ApiStepDefs.class
 pages\LoginPage.class
-utilities\ConfigReader.class
 pages\PageFactory.class
+ui\steps\SauceDemoLoginSteps.class
+runner\RunCucumberTest.class
+utilities\ConfigReader.class
 steps\SauceDemoLoginSteps.class
